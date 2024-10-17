@@ -394,8 +394,8 @@ ul.costomer li a {
 
 .three_box .Soft-box i {
      background: #fff;
-     width: 120px;
-     height: 120px;
+     width: 100px;
+     height: 100px;
      border-radius: 20px;
      border: #21264d solid 2px;
      align-items: center;
@@ -764,7 +764,7 @@ footer {
    }
    
    footer .social {
-     margin-left: 43rem;
+     margin-left: 50rem;
      display: flex;
    }
    
